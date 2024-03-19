@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+}
+h1{
+    margin: 10px 0 0;
+    font-family: "Open Sans", sans-serif;
+}
+
+a{
+    width: 200px;
+    width: 200px;
+}
+img{
+    width: 200px;
+    width: 200px;
+    margin: 10px 50px;
+}
+
+#pa{
+    display: block;
+    text-decoration: none;
+    border: 1px solid #ED195C;
+    color: white;
+    background-color: #ED195C;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+}
+.pagina-principal{
+    margin: 20px 0;
+}

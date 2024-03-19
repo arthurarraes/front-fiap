@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 20px;
+}
+#header{
+    text-align: center;
+    padding: 10px;
+}
+#title{
+    margin: 10px 0;
+    font-family: "Open Sans", sans-serif;
+}
+
+#logo{
+    width: 400px;
+    height: 250px;
+}
+
+#info{
+    padding: 20px;
+    text-align: center;
+}
+
+#info p{
+    font-family: "Roboto", sans-serif;
+    margin: 0 0 20px 0;
+}
+
+#info a{
+    text-decoration: none;
+    border: 1px solid #ED195C;
+    color: white;
+    background-color: #ED195C;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+#cursos{
+    padding: 20px;
+    text-align: center;
+}
+#cursos h1{
+    font-family: "Open Sans", sans-serif;
+    margin: 0 0 10px 0;
+}
+
+#cursos li{
+    list-style: none;
+    margin:5px;
+    font-family: "Roboto", sans-serif;
+    text-align:start;
+}
+
+#cursos a{
+    text-decoration: none;
+}
+
+#header h2{
+    margin: 15px 0 0 0;
+    font-family: "Open Sans", sans-serif;
+    font-size: 24px;
+}
+
+p{
+    font-family: "Roboto", sans-serif;
+    margin: 0 0 15px 0;
+    color: rgb(32, 32, 32);
+    text-align: center;
+}
+
+a{
+    font-family: "Roboto", sans-serif;
+    color:#ED195C;
+}
+
+#cursos-nav{
+    text-align: center;
+}
